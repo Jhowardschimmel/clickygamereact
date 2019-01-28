@@ -1,13 +1,13 @@
 {
-  "main.css": "/Jhowardschimmel/clickygamereact/static/css/main.680e16d4.chunk.css",
-  "main.js": "/Jhowardschimmel/clickygamereact/static/js/main.6ba82c66.chunk.js",
-  "main.js.map": "/Jhowardschimmel/clickygamereact/static/js/main.6ba82c66.chunk.js.map",
-  "static/js/1.441b227c.chunk.js": "/Jhowardschimmel/clickygamereact/static/js/1.441b227c.chunk.js",
-  "static/js/1.441b227c.chunk.js.map": "/Jhowardschimmel/clickygamereact/static/js/1.441b227c.chunk.js.map",
-  "runtime~main.js": "/Jhowardschimmel/clickygamereact/static/js/runtime~main.ef4f5947.js",
-  "runtime~main.js.map": "/Jhowardschimmel/clickygamereact/static/js/runtime~main.ef4f5947.js.map",
-  "static/css/main.680e16d4.chunk.css.map": "/Jhowardschimmel/clickygamereact/static/css/main.680e16d4.chunk.css.map",
-  "index.html": "/Jhowardschimmel/clickygamereact/index.html",
-  "precache-manifest.b2e0260c60ee06c68cfeae38a4bfc0d6.js": "/Jhowardschimmel/clickygamereact/precache-manifest.b2e0260c60ee06c68cfeae38a4bfc0d6.js",
-  "service-worker.js": "/Jhowardschimmel/clickygamereact/service-worker.js"
+  "main.css": "/clickygamereact/static/css/main.680e16d4.chunk.css",
+  "main.js": "/clickygamereact/static/js/main.35e992ad.chunk.js",
+  "main.js.map": "/clickygamereact/static/js/main.35e992ad.chunk.js.map",
+  "static/js/1.441b227c.chunk.js": "/clickygamereact/static/js/1.441b227c.chunk.js",
+  "static/js/1.441b227c.chunk.js.map": "/clickygamereact/static/js/1.441b227c.chunk.js.map",
+  "runtime~main.js": "/clickygamereact/static/js/runtime~main.ed57062f.js",
+  "runtime~main.js.map": "/clickygamereact/static/js/runtime~main.ed57062f.js.map",
+  "static/css/main.680e16d4.chunk.css.map": "/clickygamereact/static/css/main.680e16d4.chunk.css.map",
+  "index.html": "/clickygamereact/index.html",
+  "precache-manifest.15fa972b90bb298951ff308ed069cb80.js": "/clickygamereact/precache-manifest.15fa972b90bb298951ff308ed069cb80.js",
+  "service-worker.js": "/clickygamereact/service-worker.js"
 }
