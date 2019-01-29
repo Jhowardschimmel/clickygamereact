@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/beverly.jpg",
+    "image": "../build/assets/images/beverly.jpg",
     "clicked": false
   },
   {
